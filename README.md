@@ -4,10 +4,7 @@ The exercises is to practice basic Git commands.
 
 Complete the following steps:
 
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)
-   and
-   [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository)
-   this repository.
+1. Clone the remote Github repository.
 1. Create a file called `music.txt`.
 1. Enter the name of your favorite artist in `music.txt`.
 1. Add `music.txt` to the staging area.
@@ -27,4 +24,4 @@ Complete the following steps:
 1. Add this change to the staging area.
 1. Check the state of the staging area with `git status`.
 1. Commit with the message "renaming food.txt to meals.txt".
-1. Update the remote (forked) GitHub repository with the local commits.
+1. Update the remote GitHub repository with the local commits.
