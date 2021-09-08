@@ -1,6 +1,6 @@
 # Basic Git Commands
 
-The exercises is to practice basic Git commands.
+The exercises are to practice basic Git commands.
 
 Complete the following steps:
 
@@ -25,3 +25,14 @@ Complete the following steps:
 1. Check the state of the staging area with `git status`.
 1. Commit with the message "renaming food.txt to meals.txt".
 1. Update the remote GitHub repository with the local commits.
+
+Extra credit assignment:
+
+1. Find a classmate to collaborate on the assignment.
+1. [Invite each other as collaborators](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
+   to the repositories of each other.
+1. Clone the remote Github repository of your classmate.
+1. Add your favorite food to `meals.txt` in a new line.
+1. Add this change to the staging area.
+1. Commit with the message "adding my favorite food".
+1. Update the remote GitHub repository with the local commit.
