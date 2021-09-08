@@ -1,8 +1,9 @@
 # Basic Git Commands
 
-The exercises are to practice basic Git commands.
+The exercises are to practice basic Git commands.  Follow the instructions
+below to complete the assignments.
 
-Complete the following steps:
+## Working in your own GitHub repository (1 point).
 
 1. Clone the remote Github repository.
 1. Create a file called `music.txt`.
@@ -26,7 +27,7 @@ Complete the following steps:
 1. Commit with the message "renaming food.txt to meals.txt".
 1. Update the remote GitHub repository with the local commits.
 
-Extra credit assignment:
+## Collaborative work in a GiHub repository (1 point).
 
 1. Find a classmate to collaborate on the assignment.
 1. [Invite each other as collaborators](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
